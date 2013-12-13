@@ -5,7 +5,7 @@ fistool fis可视化工具
 
 * 将fis命令行都以界面的形式展现出来，适合初级开发人员，降低学习成本
 
-![fistool](https://github.com/kaven85/fistool/blob/master/fistool.png)
+![fistool](https://github.com/kaven85/fistool/blob/master/fistool.png?raw=true)
 
 
 代码源码地址
